@@ -1,2 +1,3 @@
-# counter-osint-guide-ru
-Counter OSINT comprehensive guide for Runet and CIS // Исчерпывающее руководство по контр-ОСИНТУ для Рунета и всего СНГ
+# Counter-OSINT: руководство по приватности и защите своих данных в Сети
+
+1. [Вступление](./introduction.md)
