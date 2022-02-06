@@ -58,4 +58,6 @@
 
 - [Хабр - Настройки приватности Facebook VS OSINT](https://habr.com/ru/company/tomhunter/blog/530460/)
 
+---
+
 [⬅️ Назад](./mobile-apps-privacy.md) | [➡️ Вперёд](./telegram.md)
