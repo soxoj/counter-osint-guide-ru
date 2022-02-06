@@ -9,6 +9,10 @@
 
 *Раздел будет дополняться*
 
+## Сервисы
+
+- https://monitor.firefox.com/
+
 ---
 
 [⬅️ Назад](./breaches.md) | [➡️ Вперёд](./canary-tokens.md)
