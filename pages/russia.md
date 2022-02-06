@@ -21,4 +21,4 @@
 
 ---
 
-[⬅️ Назад](./deleteme.md) | [➡️ Вперёд](./README.md)
+[⬅️ Назад](./deleteme.md) | [➡️ На главную](./README.md)
