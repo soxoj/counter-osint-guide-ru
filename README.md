@@ -16,7 +16,7 @@
      1. [Определение источника утечки](./pages/breach-detection.md)
      1. [Канарейки](./pages/canary-tokens.md)
  1. [Приватность мобильных платформ](./pages/mobile-apps-privacy.md)
- 1. [Настраиваем приватность в сервисах](./pages/platforms.md)
+ 1. [Приватность соцсетей и мессенджеров](./pages/platforms.md)
      1. [Facebook](./pages/facebook.md)
      1. [Telegram](./pages/telegram.md)
  1. [Разное, но важное](./pages/other.md)
