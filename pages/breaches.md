@@ -17,4 +17,4 @@
 
 ---
 
-[⬅️ Назад](./phone.md) | [➡️ Вперёд](./breach-detection.md)
+[⬅️ Назад](./password.md) | [➡️ Вперёд](./breach-detection.md)

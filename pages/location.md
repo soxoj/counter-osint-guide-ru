@@ -9,4 +9,4 @@
 
 ---
 
-[⬅️ Назад](./fio-birthday.md) | [➡️ Вперёд](./breaches.md)
+[⬅️ Назад](./fio-birthday.md) | [➡️ Вперёд](./password.md)
