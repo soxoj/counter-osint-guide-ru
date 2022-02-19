@@ -20,6 +20,7 @@
  1. [Приватность соцсетей и мессенджеров](./pages/platforms.md)
      1. [Facebook](./pages/facebook.md)
      1. [Telegram](./pages/telegram.md)
+     1. [ВКонтакте](./pages/vkontakte.md)
  1. [Разное, но важное](./pages/other.md)
      1. [Раскрытие информации через 2FA и проверку наличия учётной записи](./pages/2fa.md)
      1. [Удаление своих учётных записей](./pages/deleteme.md)
