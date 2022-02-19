@@ -28,4 +28,4 @@
 
 ---
 
-[⬅️ Назад](./russia.md) | [➡️ На главную](../README.md)
+[⬅️ Назад](./russia.md) | [➡️ Далее](./kazakhstan.md)

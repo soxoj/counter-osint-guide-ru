@@ -26,3 +26,4 @@
  1. [Специфика разных стран Бывшего Союза](./pages/country-notes.md)
      1. [Россия](./pages/russia.md)
      1. [Украина](./pages/ukraine.md)
+     1. [Казахстан](./pages/kazakhstan.md)
