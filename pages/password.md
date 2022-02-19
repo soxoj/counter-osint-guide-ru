@@ -16,4 +16,4 @@
 
 ---
 
-[⬅️ Назад](./location.md) | [➡️ Вперёд](./breaches.md)
+[⬅️ Назад](./location.md) | [➡️ Вперёд](./photo.md)

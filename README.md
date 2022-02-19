@@ -13,6 +13,7 @@
      1. [Фамилия, имя, отчество, день рождения](./pages/fio-birthday.md)
      1. [Адрес и местоположение](./pages/location.md)
      1. [Пароль](./pages/password.md)
+     1. [Фотография](./pages/photo.md)
  1. [Утечки данных и пробив](./pages/breaches.md)
      1. [Определение источника утечки](./pages/breach-detection.md)
      1. [Канарейки](./pages/canary-tokens.md)
