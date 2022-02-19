@@ -31,4 +31,4 @@
 
 ---
 
-[⬅️ Назад](./ukraine.md) | [➡️ На главную](../README.md)
+[⬅️ Назад](./ukraine.md) | [➡️ На главную](./kazakhstan.md)
