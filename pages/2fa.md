@@ -25,4 +25,4 @@
 
 ---
 
-[⬅️ Назад](./telegram.md) | [➡️ Вперёд](./deleteme.md)
+[⬅️ Назад](./development.md) | [➡️ Вперёд](./deleteme.md)

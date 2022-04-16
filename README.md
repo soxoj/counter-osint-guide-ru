@@ -23,6 +23,7 @@
      1. [Telegram](./pages/telegram.md)
      1. [ВКонтакте](./pages/vkontakte.md)
      1. [Instagram](./pages/instagram.md)
+ 1. [Приватность для разработчиков](./pages/development.md)
  1. [⚠️ Разное, но важное](./pages/other.md)
      1. [Привязывать телефон к аккаунту - не всегда хорошая идея](./pages/2fa.md)
      1. [Удаление своих учётных записей](./pages/deleteme.md)

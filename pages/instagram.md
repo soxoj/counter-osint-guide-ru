@@ -4,4 +4,4 @@
 
 ---
 
-[⬅️ Назад](./vkontakte.md) | [➡️ Вперёд](./2fa.md)
+[⬅️ Назад](./vkontakte.md) | [➡️ Вперёд](./development.md)
