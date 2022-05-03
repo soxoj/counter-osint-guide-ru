@@ -4,4 +4,4 @@
 
 ---
 
-[⬅️ Назад](./vkontakte.md) | [➡️ Вперёд](./development.md)
+[⬅️ Назад](./vkontakte.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./development.md)

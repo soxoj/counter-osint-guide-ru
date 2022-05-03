@@ -25,4 +25,4 @@
 
 ---
 
-[⬅️ Назад](./development.md) | [➡️ Вперёд](./deleteme.md)
+[⬅️ Назад](./development.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./deleteme.md)

@@ -47,4 +47,4 @@
 
 ---
 
-[➡️ Вперёд](./importance.md)
+[⏫ Оглавление](../README.md) | [➡️ Вперёд](./importance.md)

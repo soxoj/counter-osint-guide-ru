@@ -31,4 +31,4 @@
 
 ---
 
-[⬅️ Назад](./importance.md) | [➡️ Вперёд](./phone.md)
+[⬅️ Назад](./importance.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./phone.md)

@@ -55,4 +55,4 @@
 
 ---
 
-[⬅️ Назад](./breaches.md) | [➡️ Вперёд](./platforms.md)
+[⬅️ Назад](./breaches.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./platforms.md)

@@ -45,4 +45,4 @@
 
 ---
 
-[⬅️ Назад](./phone.md) | [➡️ Вперёд](./fio-birthday.md)
+[⬅️ Назад](./phone.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./fio-birthday.md)

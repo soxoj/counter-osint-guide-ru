@@ -60,4 +60,4 @@
 
 ---
 
-[⬅️ Назад](./mobile-apps-privacy.md) | [➡️ Вперёд](./telegram.md)
+[⬅️ Назад](./mobile-apps-privacy.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./telegram.md)

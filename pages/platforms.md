@@ -21,4 +21,4 @@
 
 ---
 
-[⬅️ Назад](./mobile-apps-privacy.md) | [➡️ Вперёд](./facebook.md)
+[⬅️ Назад](./mobile-apps-privacy.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./facebook.md)

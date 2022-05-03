@@ -9,4 +9,4 @@
 
 ---
 
-[⬅️ Назад](./fio-birthday.md) | [➡️ Вперёд](./password.md)
+[⬅️ Назад](./fio-birthday.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./password.md)
