@@ -39,6 +39,10 @@
 
 [Форма запроса на удаление личных данных в Google](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=ru&rd=1)
 
+## Удаление информации об утечках
+
+[Краткие инструкции по удалению ваших данных из популярных сервисов](https://inteltechniques.com/exposure.html) - Have I Been Pwned, Leakcheck, IntelX и т.д.
+
 _Раздел будет дополняться_
 
 ---
