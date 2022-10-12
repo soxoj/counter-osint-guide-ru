@@ -55,4 +55,4 @@
 
 ---
 
-[⬅️ Назад](./breaches.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./platforms.md)
+[⬅️ Назад](./making-breaches-useless.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./platforms.md)
