@@ -35,4 +35,4 @@ work@list.ru
 
 ---
 
-[Назад](./canary-tokens.md) | [Оглавление](../README.md) | [Вперёд](./mobile-apps-privacy.md)
+[⬅️ Назад](./canary-tokens.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./mobile-apps-privacy.md)
