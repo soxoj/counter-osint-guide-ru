@@ -47,7 +47,7 @@
 
 Пример уведомления на почту:
 
-<img width="550" alt="Выключение автозаполнения в поисковой строке" src="../img/canary_token_example.png">
+<img width="550" alt="Пример уведомления canary-токена" src="../img/canary_token_example.png">
 
 *Раздел будет дополняться*
 
