@@ -78,7 +78,7 @@
 Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
 а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
 
-![bitwarden_ru.png](https://github.com/soxoj/counter-osint-guide-ru/blob/main/img/bitwarden_ru.png)
+![bitwarden](../img/bitwarden_ru.png)
 
 *Раздел будет дополняться*
 
