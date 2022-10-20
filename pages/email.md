@@ -72,7 +72,7 @@
 Примеры сервисов:
 
 - [SimpleLogin](https://simplelogin.io/)
-- [AnonAddy]()https://anonaddy.com/ - делает адреса по шаблону `*@ivanov.anonaddy.com`
+- [AnonAddy](https://anonaddy.com/) - делает адреса по шаблону `*@ivanov.anonaddy.com`
 - [Firefox Relay](https://relay.firefox.com/) - делает случайные адреса на домене `mozmail.com`
 - [erine.email](https://erine.email/) - делает адреса по шаблону `*.ivanov@erine.email`
 
