@@ -23,6 +23,7 @@ work@mail.ru
 work@bk.ru
 work@list.ru
 1234@mail.ru
+test@test.ru
 ```
 
 Номера телефонов:
@@ -30,6 +31,12 @@ work@list.ru
 +79123456789
 +79111111111
 ```
+
+## Сайты для генерации правдоподобных данных
+
+- https://randomuser.me/
+- https://www.fakenamegenerator.com/
+- https://www.behindthename.com/random/
 
 *Раздел будет дополняться*
 
