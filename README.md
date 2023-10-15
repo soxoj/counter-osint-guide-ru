@@ -3,7 +3,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-ru?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-ru?color=yellow&label=%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)
 
-**[English version](https://github.com/soxoj/counter-osint-guide-en)**
+**[английская версия](https://github.com/soxoj/counter-osint-guide-en)**
+
+**[Версия для Бразилии](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - В разработке**
 
 *Руководство ещё не дописано. Подписывайтесь на обновления (кнопка Watch) или следите за бэджиками выше!*
 
@@ -39,3 +41,30 @@
      1. [🇺🇦 Украина](./pages/ukraine.md)
      1. [🇧🇾 Беларусь](./pages/belarus.md)
      1. [🇰🇿 Казахстан](./pages/kazakhstan.md)
+1. Латинская Америка
+     1. [🇧🇷 Бразилия](https://github.com/alexandresantosal91/counter-osint-guide-pt-br)
+
+<h2 style="background-color: #F5F5F5;">Авторы и Соавторы</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/soxoj">
+        <img src="https://avatars.githubusercontent.com/u/31013580?v=4" alt="Фото на GitHub Soxoj" width="150px"/>
+        <br><b>Soxoj</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SOsintOps">
+        <img src="https://avatars.githubusercontent.com/u/28706121?v=4" alt="Фото на GitHub Ramingo" width="150px"/>
+        <br><b>Ramingo</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alexandresantosal91">
+        <img src="https://avatars.githubusercontent.com/u/122564125?s=400&u=89b5e90a309d06830dcac867a6a5a8e2940ff693&v=4" alt="Фото на GitHub Alexandre" width="150px"/>
+        <br><b>Александр Сантос</b>
+      </a>
+    </td>
+  </tr>
+</table>   
