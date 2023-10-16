@@ -51,20 +51,26 @@
     <td>
       <a href="https://github.com/soxoj">
         <img src="https://avatars.githubusercontent.com/u/31013580?v=4" alt="Фото на GitHub Soxoj" width="150px"/>
-        <br><b>Soxoj</b>
+        <br><b>Соксой</b>
       </a>
     </td>
     <td>
       <a href="https://github.com/SOsintOps">
-        <img src="https://avatars.githubusercontent.com/u/28706121?v=4" alt="Фото на GitHub Ramingo" width="150px"/>
-        <br><b>Ramingo</b>
+        <img src="https://avatars.githubusercontent.com/u/28706121?v=4" alt="Фото на GitHub Раминго" width="150px"/>
+        <br><b>Раминго</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/whoamins">
+        <img src="https://avatars.githubusercontent.com/u/66217512?v=4" alt="Фото на GitHub Ильсаф Набиуллин" width="150px"/>
+        <br><b>Ильсаф Набиуллин</b>
       </a>
     </td>
     <td>
       <a href="https://github.com/alexandresantosal91">
-        <img src="https://avatars.githubusercontent.com/u/122564125?s=400&u=89b5e90a309d06830dcac867a6a5a8e2940ff693&v=4" alt="Фото на GitHub Alexandre" width="150px"/>
+        <img src="https://avatars.githubusercontent.com/u/122564125?s=400&u=89b5e90a309d06830dcac867a6a5a8e2940ff693&v=4" alt="Фото на GitHub Александр Сантос" width="150px"/>
         <br><b>Александр Сантос</b>
       </a>
     </td>
   </tr>
-</table>   
+</table>
