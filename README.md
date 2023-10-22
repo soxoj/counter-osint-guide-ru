@@ -3,7 +3,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-ru?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-ru?color=yellow&label=%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)
 
-**[English version](https://github.com/soxoj/counter-osint-guide-en)**
+- **[English version](https://github.com/soxoj/counter-osint-guide-en)**
+- **[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - в разработке**
 
 *Руководство ещё не дописано. Подписывайтесь на обновления (кнопка Watch) или следите за бэджиками выше!*
 
