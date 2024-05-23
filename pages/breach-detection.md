@@ -31,7 +31,7 @@
 
 #### Боты в Telegram
 
-- https://t.me/PhoneLeaks_bot - поиск источников утечки
+~- https://t.me/PhoneLeaks_bot - поиск источников утечки~ - больше не работает
 
 Большинство ботов не указывают источник, из которого получена информация. Список некоторых ресурсов:
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
