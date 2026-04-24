@@ -41,7 +41,7 @@
      1. [🇧🇾 Беларусь](./pages/belarus.md)
      1. [🇰🇿 Казахстан](./pages/kazakhstan.md)
 1. Латинская Америка
-     1. [🇧🇷 Бразилия](https://github.com/alexandresantosal91/counter-osint-guide-pt-br)
+     1. [🇧🇷 Бразилия](./pages/brazil.md)
 
 <h2 style="background-color: #F5F5F5;">Авторы и Соавторы</h2>
 

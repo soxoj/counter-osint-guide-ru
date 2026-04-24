@@ -32,4 +32,4 @@
 
 ---
 
-[⬅️ Назад](./russia.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./kazakhstan.md)
+[⬅️ Назад](./russia.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./belarus.md)
