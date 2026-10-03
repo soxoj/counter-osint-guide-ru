@@ -70,11 +70,11 @@
 
 Сначала предоставляется маска, которая скрывает настоящий адрес.
 
-![firefoxrelay](/img/firefoxrelay.png)
+![firefoxrelay](../img/firefoxrelay.png)
 
 Теперь, используя данный адрес-маску мы можем получать письма на свой электронный адрес, не показывая его всему Интернету.
 
-![relayedemail](/img/relayedemail.png)
+![relayedemail](../img/relayedemail.png)
 
 *Раздел будет дополняться*
 
