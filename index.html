@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Counter-OSINT — книга</title>
+<meta name="description" content="Руководство по приватности и защите своих данных в Сети. PDF, FB2, EPUB.">
+<style>
+body{max-width:40rem;margin:0 auto;padding:2rem 1rem;font:18px/1.6 system-ui,sans-serif;color:#222;background:#fff}
+h1{font-size:1.6rem;line-height:1.3}
+a{color:#0b57d0}
+ul{padding-left:1.2rem}
+li{margin:.4rem 0}
+hr{border:0;border-top:1px solid #ddd;margin:2rem 0}
+small{color:#666}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}}
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CVXDCGWJL9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CVXDCGWJL9');
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href$=".pdf"], a[href$=".fb2"], a[href$=".epub"]')
+      .forEach(function (a) {
+        a.addEventListener('click', function () {
+          gtag('event', 'book_download', {
+            format: a.getAttribute('href').split('.').pop()
+          });
+        });
+      });
+  });
+</script>
+</head>
+<body>
+<h1>Counter-OSINT: руководство по приватности и защите своих данных в Сети</h1>
+
+<p>Скачать книгу:</p>
+<ul>
+<li><a href="counter-osint-ru.pdf">PDF</a> — крупный шрифт, для экрана и печати</li>
+<li><a href="counter-osint-ru.fb2">FB2</a> — для читалок</li>
+<li><a href="counter-osint-ru.epub">EPUB</a> — Apple Books, Kobo, Calibre</li>
+</ul>
+
+<p>Онлайн-версия: <a href="https://github.com/soxoj/counter-osint-guide-ru">github.com/soxoj/counter-osint-guide-ru</a></p>
+
+<hr>
+
+<h2>Консультация</h2>
+<p>По вопросам персональной консультации по цифровой безопасности — <a href="mailto:counter-osint+site@soxoj.com">counter-osint+site@soxoj.com</a></p>
+
+</body>
+</html>
