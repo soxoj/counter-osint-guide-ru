@@ -73,6 +73,10 @@
   </tr>
 </table>
 
+<h2 style="background-color: #F5F5F5;">Консультация</h2>
+
+По вопросам персональной консультации по цифровой безопасности — [counter-osint@soxoj.com](mailto:counter-osint@soxoj.com).
+
 <h2 style="background-color: #F5F5F5;">Лицензия</h2>
 
 Материалы руководства распространяются на условиях [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE) (CC BY-SA 4.0).
