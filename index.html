@@ -11,13 +11,13 @@ h1{font-size:1.6rem;line-height:1.3}
 a{color:#0b57d0}
 hr{border:0;border-top:1px solid #ddd;margin:2rem 0}
 small{color:#666}
-.dl{display:block;border:2px solid #0b57d0;border-radius:10px;padding:1rem 1.2rem;margin:.7rem 0;text-decoration:none;color:inherit;transition:background .15s}
-.dl:hover,.dl:focus{background:#0b57d0;color:#fff}
-.dl b{display:block;font-size:1.35rem;line-height:1.2}
-.dl span{display:block;font-size:.95rem;color:#555;margin-top:.25rem}
-.dl:hover span,.dl:focus span{color:#e8eefc}
+.row{display:flex;align-items:center;gap:1.2rem;margin:1.1rem 0}
+.btn{flex:0 0 11rem;display:flex;align-items:center;justify-content:center;min-height:4.6rem;background:#0b57d0;color:#fff;border-radius:16px;font-size:1.5rem;font-weight:700;letter-spacing:.02em;text-decoration:none;transition:background .15s}
+@media (max-width:30rem){.row{flex-direction:column;align-items:stretch;gap:.5rem}.btn{flex:none}}
+.btn:hover,.btn:focus{background:#0942a8;color:#fff}
+.note{font-size:.98rem;color:#555}
 .consult{font-style:italic;color:#555}
-@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}.dl{border-color:#8ab4f8}.dl span{color:#999}.dl:hover,.dl:focus{background:#8ab4f8;color:#111}.dl:hover span,.dl:focus span{color:#1a2a44}.consult{color:#999}}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}.btn{background:#8ab4f8;color:#111}.btn:hover,.btn:focus{background:#a8c7fa;color:#111}.note{color:#999}.consult{color:#999}}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CVXDCGWJL9"></script>
 <script>
@@ -42,9 +42,9 @@ small{color:#666}
 
 <p>Скачать книгу:</p>
 
-<a class="dl" href="counter-osint-ru.pdf"><b>PDF</b><span>Страницы как в бумажной книге, крупный шрифт. Для компьютера и для печати.</span></a>
-<a class="dl" href="counter-osint-ru.fb2"><b>FB2</b><span>Текст сам подстраивается под размер экрана. Для электронных книг.</span></a>
-<a class="dl" href="counter-osint-ru.epub"><b>EPUB</b><span>Тоже подстраивается под экран, но открывается почти везде. Для телефона.</span></a>
+<div class="row"><a class="btn" href="counter-osint-ru.pdf">PDF</a><span class="note">Страницы как в бумажной книге, крупный шрифт. Для компьютера и для печати.</span></div>
+<div class="row"><a class="btn" href="counter-osint-ru.fb2">FB2</a><span class="note">Текст сам подстраивается под размер экрана. Для электронных книг.</span></div>
+<div class="row"><a class="btn" href="counter-osint-ru.epub">EPUB</a><span class="note">Тоже подстраивается под экран, но открывается почти везде. Для телефона.</span></div>
 
 <p>Онлайн-версия: <a href="https://github.com/soxoj/counter-osint-guide-ru">github.com/soxoj/counter-osint-guide-ru</a></p>
 
