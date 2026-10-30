@@ -76,8 +76,6 @@
 
 ![relayedemail](../img/relayedemail.png)
 
-*Раздел будет дополняться*
-
 Примеры сервисов:
 
 - [SimpleLogin](https://simplelogin.io/)
@@ -114,8 +112,6 @@ argosy-07raving@icloud.com
 а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
 
 ![bitwarden](../img/bitwarden_ru.png)
-
-*Раздел будет дополняться*
 
 </details>
 
