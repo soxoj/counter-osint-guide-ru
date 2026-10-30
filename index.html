@@ -9,11 +9,15 @@
 body{max-width:40rem;margin:0 auto;padding:2rem 1rem;font:18px/1.6 system-ui,sans-serif;color:#222;background:#fff}
 h1{font-size:1.6rem;line-height:1.3}
 a{color:#0b57d0}
-ul{padding-left:1.2rem}
-li{margin:.4rem 0}
 hr{border:0;border-top:1px solid #ddd;margin:2rem 0}
 small{color:#666}
-@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}}
+.dl{display:block;border:2px solid #0b57d0;border-radius:10px;padding:1rem 1.2rem;margin:.7rem 0;text-decoration:none;color:inherit;transition:background .15s}
+.dl:hover,.dl:focus{background:#0b57d0;color:#fff}
+.dl b{display:block;font-size:1.35rem;line-height:1.2}
+.dl span{display:block;font-size:.95rem;color:#555;margin-top:.25rem}
+.dl:hover span,.dl:focus span{color:#e8eefc}
+.consult{font-style:italic;color:#555}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}.dl{border-color:#8ab4f8}.dl span{color:#999}.dl:hover,.dl:focus{background:#8ab4f8;color:#111}.dl:hover span,.dl:focus span{color:#1a2a44}.consult{color:#999}}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CVXDCGWJL9"></script>
 <script>
@@ -37,18 +41,16 @@ small{color:#666}
 <h1>Counter-OSINT: руководство по приватности и защите своих данных в Сети</h1>
 
 <p>Скачать книгу:</p>
-<ul>
-<li><a href="counter-osint-ru.pdf">PDF</a> — крупный шрифт, для экрана и печати</li>
-<li><a href="counter-osint-ru.fb2">FB2</a> — для читалок</li>
-<li><a href="counter-osint-ru.epub">EPUB</a> — Apple Books, Kobo, Calibre</li>
-</ul>
+
+<a class="dl" href="counter-osint-ru.pdf"><b>PDF</b><span>Страницы как в бумажной книге, крупный шрифт. Для компьютера и для печати.</span></a>
+<a class="dl" href="counter-osint-ru.fb2"><b>FB2</b><span>Текст сам подстраивается под размер экрана. Для электронных книг.</span></a>
+<a class="dl" href="counter-osint-ru.epub"><b>EPUB</b><span>Тоже подстраивается под экран, но открывается почти везде. Для телефона.</span></a>
 
 <p>Онлайн-версия: <a href="https://github.com/soxoj/counter-osint-guide-ru">github.com/soxoj/counter-osint-guide-ru</a></p>
 
 <hr>
 
-<h2>Консультация</h2>
-<p>По вопросам персональной консультации по цифровой безопасности — <a href="mailto:counter-osint+site@soxoj.com">counter-osint+site@soxoj.com</a></p>
+<p class="consult">Нужна персональная консультация по цифровой безопасности — <a href="mailto:counter-osint+site@soxoj.com">напишите на почту</a>.</p>
 
 </body>
 </html>
