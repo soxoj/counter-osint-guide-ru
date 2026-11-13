@@ -1,0 +1,42 @@
+name: links
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Dead links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-concurrency 1
+            --max-retries 3
+            --retry-wait-time 5
+            --exclude 't\.me'
+            --exclude 'vk\.com'
+            --exclude 'facebook\.com'
+            --exclude 'instagram\.com'
+            --exclude 'twitter\.com'
+            --exclude 'x\.com'
+            pages/*.md README.md
+          fail: true
+
+      - name: Parked domains
+        run: |
+          grep -hoE 'https?://[^)" >]+' pages/*.md README.md | sed 's/[.,]*$//' | sort -u > urls.txt
+          parked=0
+          while read -r url; do
+            body=$(curl -sL --max-time 20 -A 'links-ci' "$url" | head -c 20000)
+            if printf '%s' "$body" | grep -qiE 'this (domain|website) is for sale|domain (is )?for sale|steht zum verkauf|parkingcrew|sedoparking|afternic|dan\.com'; then
+              echo "::error::$url looks like a parked domain"
+              parked=1
+            fi
+          done < urls.txt
+          exit $parked
