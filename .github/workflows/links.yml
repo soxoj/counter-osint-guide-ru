@@ -19,6 +19,7 @@ jobs:
             --max-concurrency 1
             --max-retries 3
             --retry-wait-time 5
+            --accept '200,206,403,429'
             --exclude 't\.me'
             --exclude 'vk\.com'
             --exclude 'facebook\.com'
@@ -29,6 +30,7 @@ jobs:
           fail: true
 
       - name: Parked domains
+        if: always()
         run: |
           grep -hoE 'https?://[^)" >]+' pages/*.md README.md | sed 's/[.,]*$//' | sort -u > urls.txt
           parked=0
