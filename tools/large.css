@@ -1,0 +1,67 @@
+@page { margin: 20mm 18mm 20mm 18mm; }
+
+body {
+  font-family: "PT Serif", "Liberation Serif", "DejaVu Serif", Georgia, serif;
+  font-size: 17pt; line-height: 1.5; color: #1a1a1a;
+  max-width: none; margin: 0; text-align: left; hyphens: auto;
+}
+
+/* ---- Титул ---- */
+h1#контр-осинт-руководство-по-приватности {
+  font-size: 40pt; line-height: 1.12; margin: 25% 0 0.6em 0;
+  text-align: center; border: none; page-break-after: auto;
+}
+h1#контр-осинт-руководство-по-приватности + p {
+  text-align: center; font-size: 20pt; color: #444; font-style: italic;
+  margin-bottom: 2.5em;
+}
+
+/* ---- Оглавление ---- */
+#TOC { page-break-after: always; font-size: 15pt; line-height: 1.35; }
+#TOC::before {
+  content: "Оглавление"; display: block; font-size: 26pt;
+  font-weight: 700; margin: 0 0 0.8em 0; letter-spacing: -0.01em;
+}
+#TOC ul { list-style: none; padding-left: 0; margin: 0; }
+#TOC > ul > li { margin: 0.32em 0; }
+#TOC a { text-decoration: none; color: #1a1a1a; }
+
+/* ---- Заголовки ---- */
+h1 {
+  font-size: 27pt; line-height: 1.18; margin: 0 0 0.7em 0;
+  padding-bottom: 0.28em; border-bottom: 3px solid #1a1a1a;
+  page-break-before: always; page-break-after: avoid; letter-spacing: -0.015em;
+}
+h2 { font-size: 21pt; margin: 1.5em 0 0.45em; page-break-after: avoid; letter-spacing: -0.01em; }
+h3 { font-size: 18pt; margin: 1.2em 0 0.35em; page-break-after: avoid; }
+h4 { font-size: 17pt; margin: 1em 0 0.3em; font-style: italic; page-break-after: avoid; }
+
+p { margin: 0 0 0.75em 0; orphans: 3; widows: 3; }
+
+/* ---- Код ---- */
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 0.82em;
+       background: #f0f0f0; padding: 0.08em 0.3em; border-radius: 3px; }
+pre { background: #f6f6f6; border-left: 4px solid #999; padding: 0.7em 0.9em;
+      font-size: 13pt; line-height: 1.35; white-space: pre-wrap;
+      page-break-inside: avoid; margin: 0.9em 0; }
+pre code { background: none; padding: 0; font-size: inherit; }
+
+/* ---- Таблицы ---- */
+table { border-collapse: collapse; width: 100%; font-size: 14pt;
+        margin: 1em 0; page-break-inside: avoid; }
+th { background: #ececec; font-weight: 700; text-align: left; }
+th, td { border: 1px solid #c4c4c4; padding: 0.4em 0.55em; vertical-align: top; }
+
+/* ---- Цитаты и списки ---- */
+blockquote { border-left: 4px solid #bbb; margin: 1em 0 1em 0;
+             padding: 0.1em 0 0.1em 1.1em; color: #333; font-style: italic; }
+ul, ol { margin: 0 0 0.8em 0; padding-left: 1.5em; }
+li { margin: 0.22em 0; }
+
+/* ---- Картинки и ссылки ---- */
+img { max-width: 100%; height: auto; display: block; margin: 1em auto;
+      page-break-inside: avoid; border: 1px solid #ddd; }
+a { color: #1a1a1a; text-decoration: underline; text-decoration-color: #999; }
+
+hr { border: none; border-top: 1px solid #ccc; margin: 1.6em 0; }
+strong { font-weight: 700; }
