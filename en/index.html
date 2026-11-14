@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Counter-OSINT — the book</title>
+<link rel="alternate" hreflang="ru" href="https://counter-osint.soxoj.com/">
+<link rel="alternate" hreflang="en" href="https://counter-osint.soxoj.com/en/">
+<meta name="description" content="A guide to privacy and protecting your personal data online. PDF, FB2, EPUB.">
+<style>
+body{max-width:40rem;margin:0 auto;padding:2rem 1rem;font:18px/1.6 system-ui,sans-serif;color:#222;background:#fff}
+h1{font-size:1.6rem;line-height:1.3}
+a{color:#0b57d0}
+hr{border:0;border-top:1px solid #ddd;margin:2rem 0}
+small{color:#666}
+.row{display:flex;align-items:center;gap:1.2rem;margin:1.1rem 0}
+.btn{flex:0 0 11rem;display:flex;align-items:center;justify-content:center;min-height:4.6rem;background:#0b57d0;color:#fff;border-radius:16px;font-size:1.5rem;font-weight:700;letter-spacing:.02em;text-decoration:none;transition:background .15s}
+@media (max-width:30rem){.row{flex-direction:column;align-items:stretch;gap:.5rem}.btn{flex:none}}
+.btn:hover,.btn:focus{background:#0942a8;color:#fff}
+.note{font-size:.98rem;color:#555}
+.consult{font-style:italic;color:#555}
+.lang{display:flex;justify-content:flex-end;gap:.6rem;font-size:.95rem;margin:0 0 1.2rem}
+.lang b{font-weight:600;color:#666}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#8ab4f8}hr{border-color:#333}small{color:#999}.btn{background:#8ab4f8;color:#111}.btn:hover,.btn:focus{background:#a8c7fa;color:#111}.note{color:#999}.consult{color:#999}.lang b{color:#999}}
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CVXDCGWJL9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CVXDCGWJL9');
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href$=".pdf"], a[href$=".fb2"], a[href$=".epub"]')
+      .forEach(function (a) {
+        a.addEventListener('click', function () {
+          gtag('event', 'book_download', {
+            format: a.getAttribute('href').split('.').pop()
+          });
+        });
+      });
+  });
+</script>
+</head>
+<body>
+<nav class="lang"><a href="/" hreflang="ru">Русский</a> · <b>English</b></nav>
+<h1>Counter-OSINT: a guide to protecting your personal data</h1>
+
+<p>Download the book:</p>
+
+<div class="row"><a class="btn" href="counter-osint-en.pdf">PDF</a><span class="note">Pages like in a printed book, large type. For a computer and for printing.</span></div>
+<div class="row"><a class="btn" href="counter-osint-en.fb2">FB2</a><span class="note">The text reflows to fit the screen. For e-readers.</span></div>
+<div class="row"><a class="btn" href="counter-osint-en.epub">EPUB</a><span class="note">Also reflows, and opens almost everywhere. For a phone.</span></div>
+
+<p>Online version: <a href="https://github.com/soxoj/counter-osint-guide-en">github.com/soxoj/counter-osint-guide-en</a></p>
+
+</body>
+</html>
