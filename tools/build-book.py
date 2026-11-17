@@ -84,7 +84,7 @@ for page in order:
 parts, missed = [], 0
 for page in order:
     text = (REPO / 'pages' / page).read_text(encoding='utf-8')
-    text = re.sub(r'\n---\n\n\[⬅️.*$', '', text, flags=re.S)
+    text = re.sub(r'\n---\n\n\[(?:⬅️|⏫).*$', '', text, flags=re.S)
     text = re.sub(r'\]\(\./([a-z0-9-]+)\.md(?:#[^)]*)?\)',
                   lambda m: f']({anchors.get(m.group(1) + ".md", "#")})', text)
     text = re.sub(r'counter-osint\+[a-z]+@soxoj\.com', 'counter-osint+book@soxoj.com', text)
@@ -97,7 +97,7 @@ for page in order:
             missed += 1
     parts.append(text.strip())
 
-for src in (REPO / 'img').glob('*.png'):
+for src in (REPO / 'img').iterdir():
     (OUT / 'img' / src.name).write_bytes(src.read_bytes())
 
 label = f"{SITE}{S['site_path']}/{ {'html': 'pdf'}.get(args.format, args.format) }"
